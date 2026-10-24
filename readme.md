@@ -98,6 +98,7 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management.
 - [Feedly](https://feedly.com/) - Content curation and RSS reader.
+- [APPLORE](https://applore.app/app-store-screenshot-generator) - Free App Store screenshot generator for app store listings.
 
 ## Customer Relationship Management (CRM)
 
